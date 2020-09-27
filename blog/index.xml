@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>http://10.0.0.26/blog/</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Sep 2020 14:53:19 +0000</lastBuildDate><atom:link href="http://10.0.0.26/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Officiá sed est dolorum ea duis voluptatibus nisi dolorem totam dolor</title>
+      <link>http://10.0.0.26/blog/sed-eligendi-quia-ut-cum-animi-ea-aspernatur-impedit-aut/</link>
+      <pubDate>Fri, 25 Sep 2020 21:41:44 +0000</pubDate>
+      
+      <guid>http://10.0.0.26/blog/sed-eligendi-quia-ut-cum-animi-ea-aspernatur-impedit-aut/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mauris posuere, pulvinar nisi quis, tincidunt dolor. Suspendisse elementumd turpis eu dui feugiat, ac deleifend ante efficitur. Sed maximus quis velit in varius. Donec volutpat neque nunc, at dictum felis lductus faucibus. Integer porttitor cursus euismod. Phasellus ac ultrices arcu, a sodales dolor. Vestibulum vel lacinia felis, eu molestie magna. Sed pharetra, ex et mattis molestie, nisl turpis dignissim risdus, sed malesuada ex ligula non odio.</description>
+    </item>
+    
+    <item>
+      <title>Qui ea qui delectus consectetur</title>
+      <link>http://10.0.0.26/blog/qui-ea-qui-delectus-consectetur/</link>
+      <pubDate>Sat, 26 Sep 2020 14:49:47 +0000</pubDate>
+      
+      <guid>http://10.0.0.26/blog/qui-ea-qui-delectus-consectetur/</guid>
+      <description>I executed following query and for some reason its not replacing new line character in database . It says Rows matched 1 but no change . What can be wrong ?</description>
+    </item>
+    
+    <item>
+      <title>Laborum officia rerum consectetur ipsum itaque nulla qui fugiat est enim ipsa dolor beatae est ratione aut porro</title>
+      <link>http://10.0.0.26/blog/laborum-officia-rerum-consectetur-ipsum-itaque-nulla-qui-fugiat-est-enim-ipsa-dolor-beatae-est-ratione-aut-porro/</link>
+      <pubDate>Sat, 26 Sep 2020 14:53:19 +0000</pubDate>
+      
+      <guid>http://10.0.0.26/blog/laborum-officia-rerum-consectetur-ipsum-itaque-nulla-qui-fugiat-est-enim-ipsa-dolor-beatae-est-ratione-aut-porro/</guid>
+      <description>Sit sed maiores cons</description>
+    </item>
+    
+  </channel>
+</rss>
