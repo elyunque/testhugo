@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on My New Hugo Site</title>
-    <link>http://10.0.0.26/blog/</link>
+    <link>https://elyunque.github.io/testhugo/blog/</link>
     <description>Recent content in Blogs on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 21:01:45 +0000</lastBuildDate><atom:link href="http://10.0.0.26/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2020 21:01:45 +0000</lastBuildDate><atom:link href="https://elyunque.github.io/testhugo/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Officiá sed est dolorum ea duis voluptatibus nisi dolorem totam dolor</title>
-      <link>http://10.0.0.26/blog/sed-eligendi-quia-ut-cum-animi-ea-aspernatur-impedit-aut/</link>
+      <link>https://elyunque.github.io/testhugo/blog/sed-eligendi-quia-ut-cum-animi-ea-aspernatur-impedit-aut/</link>
       <pubDate>Fri, 25 Sep 2020 21:41:44 +0000</pubDate>
       
-      <guid>http://10.0.0.26/blog/sed-eligendi-quia-ut-cum-animi-ea-aspernatur-impedit-aut/</guid>
+      <guid>https://elyunque.github.io/testhugo/blog/sed-eligendi-quia-ut-cum-animi-ea-aspernatur-impedit-aut/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in mauris posuere, pulvinar nisi quis, tincidunt dolor. Suspendisse elementumd turpis eu dui feugiat, ac deleifend ante efficitur. Sed maximus quis velit in varius. Donec volutpat neque nunc, at dictum felis lductus faucibus. Integer porttitor cursus euismod. Phasellus ac ultrices arcu, a sodales dolor. Vestibulum vel lacinia felis, eu molestie magna. Sed pharetra, ex et mattis molestie, nisl turpis dignissim risdus, sed malesuada ex ligula non odio.</description>
     </item>
     
     <item>
       <title>Qui ea qui delectus consectetur</title>
-      <link>http://10.0.0.26/blog/qui-ea-qui-delectus-consectetur/</link>
+      <link>https://elyunque.github.io/testhugo/blog/qui-ea-qui-delectus-consectetur/</link>
       <pubDate>Sat, 26 Sep 2020 14:49:47 +0000</pubDate>
       
-      <guid>http://10.0.0.26/blog/qui-ea-qui-delectus-consectetur/</guid>
+      <guid>https://elyunque.github.io/testhugo/blog/qui-ea-qui-delectus-consectetur/</guid>
       <description>I executed following query and for some reason its not replacing new line character in database . It says Rows matched 1 but no change . What can be wrong ?</description>
     </item>
     
     <item>
       <title>Laborum officia rerum consectetur ipsum itaque nulla qui fugiat est enim ipsa dolor beatae est ratione aut porro</title>
-      <link>http://10.0.0.26/blog/laborum-officia-rerum-consectetur-ipsum-itaque-nulla-qui-fugiat-est-enim-ipsa-dolor-beatae-est-ratione-aut-porro/</link>
+      <link>https://elyunque.github.io/testhugo/blog/laborum-officia-rerum-consectetur-ipsum-itaque-nulla-qui-fugiat-est-enim-ipsa-dolor-beatae-est-ratione-aut-porro/</link>
       <pubDate>Sat, 26 Sep 2020 14:53:19 +0000</pubDate>
       
-      <guid>http://10.0.0.26/blog/laborum-officia-rerum-consectetur-ipsum-itaque-nulla-qui-fugiat-est-enim-ipsa-dolor-beatae-est-ratione-aut-porro/</guid>
+      <guid>https://elyunque.github.io/testhugo/blog/laborum-officia-rerum-consectetur-ipsum-itaque-nulla-qui-fugiat-est-enim-ipsa-dolor-beatae-est-ratione-aut-porro/</guid>
       <description>Sit sed maiores cons</description>
     </item>
     
     <item>
       <title>Voluptatibus ea ea excepturi elit non voluptatem </title>
-      <link>http://10.0.0.26/blog/voluptatibus-ea-ea-excepturi-elit-non-voluptatem/</link>
+      <link>https://elyunque.github.io/testhugo/blog/voluptatibus-ea-ea-excepturi-elit-non-voluptatem/</link>
       <pubDate>Sat, 26 Sep 2020 20:58:11 +0000</pubDate>
       
-      <guid>http://10.0.0.26/blog/voluptatibus-ea-ea-excepturi-elit-non-voluptatem/</guid>
+      <guid>https://elyunque.github.io/testhugo/blog/voluptatibus-ea-ea-excepturi-elit-non-voluptatem/</guid>
       <description>provide a username and password and those details will then be remembered later. The credentials are stored in a file on the disk, with the disk permissions of &#34;just user readable/writable&#34; but still in plaintext.</description>
     </item>
     
     <item>
-      <title>Tempora dolorem autem deserunt omnis labore tempora do aut adipisicing voluptatem laboriosam id assumenda nihil quos voluptatibus repudiandae voluptas</title>
-      <link>http://10.0.0.26/blog/tempora-dolorem-autem-deserunt-omnis-labore-tempora-do-aut-adipisicing-voluptatem-laboriosam-id-assumenda-nihil-quos-voluptatibus-repudiandae-voluptas/</link>
+      <title>Tempora dolorem autem deserunt omnis labore tempora do aut adipisicing </title>
+      <link>https://elyunque.github.io/testhugo/blog/tempora-dolorem-autem-deserunt-omnis-labore-tempora-do-aut-adipisicing/</link>
       <pubDate>Sat, 26 Sep 2020 21:01:45 +0000</pubDate>
       
-      <guid>http://10.0.0.26/blog/tempora-dolorem-autem-deserunt-omnis-labore-tempora-do-aut-adipisicing-voluptatem-laboriosam-id-assumenda-nihil-quos-voluptatibus-repudiandae-voluptas/</guid>
+      <guid>https://elyunque.github.io/testhugo/blog/tempora-dolorem-autem-deserunt-omnis-labore-tempora-do-aut-adipisicing/</guid>
       <description>You can look at the repository URL to find out which port it uses. Notice that many public repositories have several alternate URLs; for instance, the kernel.org repositories have&amp;nbsp;git://,&amp;nbsp;http://, and&amp;nbsp;https://&amp;nbsp;URLs.</description>
     </item>
     
