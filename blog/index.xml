@@ -6,7 +6,7 @@
     <description>Recent content in Blogs on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 14:53:19 +0000</lastBuildDate><atom:link href="http://10.0.0.26/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Sep 2020 20:58:11 +0000</lastBuildDate><atom:link href="http://10.0.0.26/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Officiá sed est dolorum ea duis voluptatibus nisi dolorem totam dolor</title>
       <link>http://10.0.0.26/blog/sed-eligendi-quia-ut-cum-animi-ea-aspernatur-impedit-aut/</link>
@@ -32,6 +32,15 @@
       
       <guid>http://10.0.0.26/blog/laborum-officia-rerum-consectetur-ipsum-itaque-nulla-qui-fugiat-est-enim-ipsa-dolor-beatae-est-ratione-aut-porro/</guid>
       <description>Sit sed maiores cons</description>
+    </item>
+    
+    <item>
+      <title>Voluptatibus ea ea excepturi elit non voluptatem </title>
+      <link>http://10.0.0.26/blog/voluptatibus-ea-ea-excepturi-elit-non-voluptatem/</link>
+      <pubDate>Sat, 26 Sep 2020 20:58:11 +0000</pubDate>
+      
+      <guid>http://10.0.0.26/blog/voluptatibus-ea-ea-excepturi-elit-non-voluptatem/</guid>
+      <description>provide a username and password and those details will then be remembered later. The credentials are stored in a file on the disk, with the disk permissions of &#34;just user readable/writable&#34; but still in plaintext.</description>
     </item>
     
   </channel>
